@@ -3,6 +3,7 @@ Login using postgres user:
 `sudo -u postgres psql`
 
 Run this command:
+
 `CREATE USER <username>`
 
 `CREATE DATABASE <username>`
