@@ -1,3 +1,6 @@
 [submodule "Simple-App-Backend"]
 	path = Simple-App-Backend
 	url = git@github.com:vourteen14/Simple-App-Backend
+[submodule "Simple-App-Frontend"]
+	path = Simple-App-Frontend
+	url = git@github.com:vourteen14/Simple-App-Frontend
